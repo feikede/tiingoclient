@@ -25,6 +25,7 @@ package de.feike.tiingoclient.api;
 import java.util.List;
 
 import org.joda.time.LocalDate;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import de.feike.tiingoclient.ApiException;
@@ -33,6 +34,7 @@ import de.feike.tiingoclient.model.Price;
 /**
  * API tests for QoutesApi
  */
+@Ignore
 public class QoutesApiTest extends TestBase {
 
 	private final QoutesApi api = new QoutesApi();

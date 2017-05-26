@@ -22,6 +22,7 @@
  */
 package de.feike.tiingoclient.api;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 import de.feike.tiingoclient.ApiException;
@@ -30,6 +31,7 @@ import de.feike.tiingoclient.model.Meta;
 /**
  * API tests for StocksApi
  */
+@Ignore
 public class StocksApiTest extends TestBase {
 
 	private final StocksApi api = new StocksApi();

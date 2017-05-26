@@ -22,6 +22,7 @@ Refer to the [official documentation](https://maven.apache.org/plugins/maven-dep
 
 ### Maven users
 
+TODO: Deploy project to maven central - it's not done until now
 Add this dependency to your project's POM:
 
 ```xml
