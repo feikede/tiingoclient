@@ -1,4 +1,5 @@
 # tiingoclient
+Goal of this project is to provide a java client for the tiingo api with low dependencies and usable as maven and gradle import. Implement API for stocks descriptions, for single EOD quotes, for historical EOD quotes aka timeseries.
 
 ## Requirements
 
